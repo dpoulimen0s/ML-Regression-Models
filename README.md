@@ -36,4 +36,4 @@ To reproduce the results, follow these steps:
 
 ## Contributors
 
-- Dimitrios Poulimenos ([dpoulimenos](https://www.linkedin.com/in/dpoulimenos/)) - Initial work 
+- Dimitrios Poulimenos ([dpoulimenos](https://www.linkedin.com/in/dpoulimenos/){:target="_blank"}) - Initial work 
