@@ -26,11 +26,14 @@ I created several plots to visually assess model performance:
 3. **Fluctuation Comparison Graphs**: Illustrating how predicted data fluctuates compared to actual data.
 4. **Boxplot**: Visualizing metric values (test accuracy, train accuracy, MSE) for each model.
 
+## Results
+![Results](regression_results.png)
+
 ## Usage
 
 To reproduce the results, follow these steps:
 
-1. Install required dependencies using `requirements.txt`.
+1. Install required dependencies using `pip install requirements.txt`.
 2. Run the provided notebook.
 3. Explore the generated plots to understand model performance.
 
