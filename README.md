@@ -1,10 +1,6 @@
-# Regression Model Comparison
+# House Price Prediction using Regression Models
 
-This repository contains the implementation and improvement of four regression models: Linear Regression, Random Forest Regression, Support Vector Regression, and Bagging Regression. The primary goal was not only to create these models but also to enhance their performance and compare them.
-
-## Academic Assignment
-
-This project was undertaken as part of a machine learning assignment during the 3rd year of the bachelor's degree at Newcastle University.
+This repository contains the implementation and improvement of four regression models: Linear Regression, Random Forest Regression, Support Vector Regression, and Bagging Regression. The primary goal was not only to create these models but also to enhance their performance and compare them. This project was undertaken as part of a machine learning assignment during the 3rd year of the bachelor's degree at Newcastle University.
 
 ## Model Development and Improvement
 
